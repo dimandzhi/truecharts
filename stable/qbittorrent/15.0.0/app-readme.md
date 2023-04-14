@@ -1,4 +1,4 @@
-qBittorrent is a cross-platform free and open-source BitTorrent client
+qBittorrent is a cross-platform free and open-source BitTorrent client (Liveness/Readiness/Startup port changed from 8080 to 80)
 
 This App is supplied by TrueCharts, for more information visit the manual: [https://truecharts.org/charts/stable/qbittorrent](https://truecharts.org/charts/stable/qbittorrent)
 
