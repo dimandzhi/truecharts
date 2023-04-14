@@ -90,6 +90,20 @@
         }
     },
     "stable": {
+        "emby": {
+            "name": "emby",
+            "categories": [
+                "media"
+            ],
+            "app_readme": "<p>Emby Server is a home media server (Liveness/Readiness/Startup port changed from 8086 to 80)</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/emby\">https://truecharts.org/charts/stable/emby</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "location": "/home/runner/work/catalog/catalog/stable/emby",
+            "healthy": true,
+            "healthy_error": null,
+            "latest_version": "14.0.2",
+            "latest_app_version": "4.7.11.0",
+            "latest_human_version": "4.7.11.0_14.0.2",
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/emby.png"
+        },
         "qbittorrent": {
             "name": "qbittorrent",
             "categories": [
