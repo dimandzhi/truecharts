@@ -8,7 +8,7 @@
                 "media"
             ],
             "app_readme": "<p>qBittorrent is a cross-platform free and open-source BitTorrent client (Liveness/Readiness/Startup port changed from 8080 to 80)</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/qbittorrent\">https://truecharts.org/charts/stable/qbittorrent</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/stable/qbittorrent",
+            "location": "/home/runner/work/catalog/dimandzhi/stable/qbittorrent",
             "healthy": true,
             "healthy_error": null,
             "latest_version": "15.0.2",
