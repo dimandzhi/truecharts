@@ -91,17 +91,36 @@
     },
     "stable": {
         "emby": {
-            "name": "emby",
+            "app_readme": "<p>Emby Server is a home media server (Liveness/Readiness/Startup port changed from 8096 to 80)</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/emby\">https://truecharts.org/charts/stable/emby</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
             "categories": [
                 "media"
             ],
-            "app_readme": "<p>Emby Server is a home media server (Liveness/Readiness/Startup port changed from 8086 to 80)</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/emby\">https://truecharts.org/charts/stable/emby</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
-            "location": "/home/runner/work/catalog/catalog/stable/emby",
+            "description": "Emby Server is a home media server",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "14.0.2",
-            "latest_app_version": "4.7.11.0",
-            "latest_human_version": "4.7.11.0_14.0.2",
+            "home": "https://truecharts.org/charts/stable/emby",
+            "location": "/home/runner/work/catalog/catalog/stable/emby",
+            "latest_version": "18.7.4",
+            "latest_app_version": "4.8.3.0",
+            "latest_human_version": "4.8.3.0_18.7.4",
+            "last_update": "2024-03-27 13:33:41",
+            "name": "emby",
+            "recommended": false,
+            "title": "Emby",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/linuxserver/docker-emby.git",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/emby",
+                "https://ghcr.io/geek-cookbook/emby"
+            ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/emby.png"
         },
         "qbittorrent": {
